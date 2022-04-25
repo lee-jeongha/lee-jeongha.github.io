@@ -378,7 +378,7 @@ h2 { margin: 0.7em 0; }
 
 @media screen and (max-width: 768px) { h2 { margin: 0.3em 0; } }
 
-main { margin: 0 90px; display: flex; height: 100%; }
+main { margin: 0 50px; display: flex; height: 100%; }
 
 @media screen and (min-width: 1600px) { main { margin: 0 auto; max-width: 1440px; } }
 
@@ -422,11 +422,11 @@ main .about .about-header .about-title { display: flex; flex-direction: column; 
 
 .navigation { width: 80%; }
 
-.navigation ul { list-style-type: none; padding: 0; margin-top: 0; }
+.navigation ul { list-style-type: none; padding: 0; margin-top: 2rem; margin-bottom: 3rem; }
 
 .navigation ul li:last-child a { border-bottom: 0; }
 
-.navigation ul a { display: block; font-family: 'Merriweather'; text-align: center; padding: 1rem 0; text-decoration: none; border-bottom: 1px solid #ececec; }
+.navigation ul a { display: block; font-family: "Raleway", sans-serif; text-align: center; padding: 1rem 0; text-decoration: none; border-bottom: 1px solid #ececec; }
 
 @media screen and (max-width: 768px) { .navigation ul a { padding: 2rem 0; } }
 
@@ -448,7 +448,7 @@ main .about .about-header .about-title { display: flex; flex-direction: column; 
 
 .post-title { line-height: 1.2em; font-size: 28px; margin-bottom: 10px; }
 
-.posts, .post-container { list-style-type: none; margin: 45px 30px; }
+.posts, .post-container { list-style-type: none; margin: 45px 3rem; }
 
 @media screen and (max-width: 480px) { .posts, .post-container { margin-left: 20px; margin-right: 20px; } }
 

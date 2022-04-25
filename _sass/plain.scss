@@ -45,7 +45,7 @@ h2 {
   }
 }
 main {
-  margin: 0 90px;
+  margin: 0 50px;
   display: flex;
   height: 100%;
 
@@ -154,7 +154,8 @@ main {
   ul {
     list-style-type: none;
     padding: 0;
-    margin-top: 0;
+    margin-top: 2rem;
+    margin-bottom: 3rem;
 
     li:last-child {
       a {
@@ -164,7 +165,7 @@ main {
 
     a {
       display: block;
-      font-family: 'Merriweather';
+      font-family: "Raleway", sans-serif;
       text-align: center;
       padding: 1rem 0;
       text-decoration: none;
@@ -229,7 +230,9 @@ main {
 .posts,
 .post-container {
   list-style-type: none;
-  margin: 45px 30px;
+  //margin: 45px 30px;
+  margin: 45px 3rem;
+  //margin: 5rem 5rem;
   @media screen and (max-width: $smallMobileW) {
     margin-left: 20px;
     margin-right: 20px;
