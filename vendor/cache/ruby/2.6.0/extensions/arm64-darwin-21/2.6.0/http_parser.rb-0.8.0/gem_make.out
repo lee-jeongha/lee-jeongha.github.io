@@ -1,5 +1,5 @@
 current directory: /Users/jmirrinae/Desktop/lee-jeongha.github.io/vendor/cache/ruby/2.6.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
-/Users/jmirrinae/.rbenv/versions/2.6.10/bin/ruby -I /Users/jmirrinae/.rbenv/versions/2.6.10/lib/ruby/2.6.0 -r ./siteconf20220424-12615-mdjz4h.rb extconf.rb
+/Users/jmirrinae/.rbenv/versions/2.6.10/bin/ruby -I /Users/jmirrinae/.rbenv/versions/2.6.10/lib/ruby/2.6.0 -r ./siteconf20220426-36113-1uc100a.rb extconf.rb
 creating Makefile
 
 current directory: /Users/jmirrinae/Desktop/lee-jeongha.github.io/vendor/cache/ruby/2.6.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
@@ -467,4 +467,4 @@ linking shared-object ruby_http_parser.bundle
 
 current directory: /Users/jmirrinae/Desktop/lee-jeongha.github.io/vendor/cache/ruby/2.6.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
 make "DESTDIR=" install
-/opt/homebrew/bin/ginstall -c -m 0755 ruby_http_parser.bundle ./.gem.20220424-12615-nccfpi
+/opt/homebrew/bin/ginstall -c -m 0755 ruby_http_parser.bundle ./.gem.20220426-36113-12paccd

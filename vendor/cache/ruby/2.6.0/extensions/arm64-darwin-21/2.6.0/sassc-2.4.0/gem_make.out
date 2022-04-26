@@ -1,5 +1,5 @@
 current directory: /Users/jmirrinae/Desktop/lee-jeongha.github.io/vendor/cache/ruby/2.6.0/gems/sassc-2.4.0/ext
-/Users/jmirrinae/.rbenv/versions/2.6.10/bin/ruby -I /Users/jmirrinae/.rbenv/versions/2.6.10/lib/ruby/2.6.0 -r ./siteconf20220424-12615-114hwi2.rb extconf.rb
+/Users/jmirrinae/.rbenv/versions/2.6.10/bin/ruby -I /Users/jmirrinae/.rbenv/versions/2.6.10/lib/ruby/2.6.0 -r ./siteconf20220426-36113-5rtgm8.rb extconf.rb
 creating Makefile
 
 current directory: /Users/jmirrinae/Desktop/lee-jeongha.github.io/vendor/cache/ruby/2.6.0/gems/sassc-2.4.0/ext
@@ -77,4 +77,4 @@ linking shared-object sassc/libsass.bundle
 
 current directory: /Users/jmirrinae/Desktop/lee-jeongha.github.io/vendor/cache/ruby/2.6.0/gems/sassc-2.4.0/ext
 make "DESTDIR=" install
-/opt/homebrew/bin/ginstall -c -m 0755 libsass.bundle ./.gem.20220424-12615-iotux1/sassc
+/opt/homebrew/bin/ginstall -c -m 0755 libsass.bundle ./.gem.20220426-36113-2yinqf/sassc

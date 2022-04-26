@@ -1,5 +1,5 @@
 current directory: /Users/jmirrinae/Desktop/lee-jeongha.github.io/vendor/cache/ruby/2.6.0/gems/ffi-1.15.5/ext/ffi_c
-/Users/jmirrinae/.rbenv/versions/2.6.10/bin/ruby -I /Users/jmirrinae/.rbenv/versions/2.6.10/lib/ruby/2.6.0 -r ./siteconf20220424-12615-q4mb4h.rb extconf.rb
+/Users/jmirrinae/.rbenv/versions/2.6.10/bin/ruby -I /Users/jmirrinae/.rbenv/versions/2.6.10/lib/ruby/2.6.0 -r ./siteconf20220426-36113-cgbwgl.rb extconf.rb
 checking for ffi_prep_closure_loc() in -lffi... yes
 checking for ffi_prep_cif_var()... yes
 checking for ffi_raw_call()... yes
@@ -4087,4 +4087,4 @@ linking shared-object ffi_c.bundle
 
 current directory: /Users/jmirrinae/Desktop/lee-jeongha.github.io/vendor/cache/ruby/2.6.0/gems/ffi-1.15.5/ext/ffi_c
 make "DESTDIR=" install
-/opt/homebrew/bin/ginstall -c -m 0755 ffi_c.bundle ./.gem.20220424-12615-1ckei15
+/opt/homebrew/bin/ginstall -c -m 0755 ffi_c.bundle ./.gem.20220426-36113-qhleg0
